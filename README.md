@@ -8,7 +8,7 @@ My name is Muhammad Yaseen, I am a computer science student at FAST University K
 * Friends
 * Money
 
-**Unordered lis:t**\
+**Unordered list:**\
 Friends\
   Family\
  job
